@@ -3,7 +3,7 @@ watch_game_2022_revB.sch
 Qty Value                 Device                Parts            Description                                                                                  
 1                         LED3MM                CHRG             LED                                                                                          
 1                         LED5MM                ON               LED                                                                                          
-1                         LF50CDT               U3               5V LDO Voltage Regulator                                                                     
+1                         NCP5501DT33RKG        U3               LDO Voltage Regulators 500 mA 3.3V LDO                                                                     
 2                         PINHD-1X1             BAT+, BAT-       Pin header 1x1 for 0.1" spacing                                                                                                                                                 
 2   100                   R-US_M0805            R1, R3           RESISTOR, American symbol                                                                    
 1   1734510-1             1734510-1             J1               Conn Mini USB Type B 

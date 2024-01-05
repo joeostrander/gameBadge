@@ -16126,8 +16126,8 @@ Source: www.kingbright.com</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="LF50CDT" prefix="U" uservalue="yes">
-<description>&lt;b&gt;5V LDO Voltage Regulator&lt;/b&gt;
+<deviceset name="NCP5501DT33RKG" prefix="U" uservalue="yes">
+<description>&lt;b&gt;LDO Voltage Regulators 500 mA 3.3V LDO&lt;/b&gt;
 &lt;ul&gt;
 &lt;li&gt;Very low-dropout voltage (0.45 V)
 &lt;li&gt;Very low quiescent current (typ. 50 µA in OFF mode, 500 µA in ON mode)
@@ -16313,7 +16313,7 @@ systems&lt;/p&gt;
 <part name="BAT+" library="adafruit" deviceset="PINHD-1X1" device=""/>
 <part name="BAT-" library="adafruit" deviceset="PINHD-1X1" device=""/>
 <part name="HORI" library="diy-modules" deviceset="DISPLAY-OLED-128X64_A" device=""/>
-<part name="U3" library="bt_regulator" deviceset="LF50CDT" device=""/>
+<part name="U3" library="bt_regulator" deviceset="NCP5501DT33RKG" device=""/>
 <part name="J1" library="USB 1734510-1" deviceset="1734510-1" device=""/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="1uf"/>
 </parts>
