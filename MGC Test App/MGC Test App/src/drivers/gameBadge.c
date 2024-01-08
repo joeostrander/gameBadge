@@ -2,7 +2,7 @@
 #include "gameBadge.h"
 #include <avr/pgmspace.h>
 
-#define F_CPU 20000000UL
+// #define F_CPU 20000000UL
 
 uint8_t buffer[SSD1306_LCDHEIGHT * SSD1306_LCDWIDTH / 8];
 
@@ -165,8 +165,7 @@ void drawTiles(const char *tileData, uint8_t *tileMapPointer) {
 				}				
 			}
 
-			// it's never vertical.. but somehow commenting this out helps???
-			//TESTING!!!coarseY += 16;                                            //Increment coarse pointer to next row
+			coarseY += 16;                                            //Increment coarse pointer to next row
 		
 		}		
 	}
