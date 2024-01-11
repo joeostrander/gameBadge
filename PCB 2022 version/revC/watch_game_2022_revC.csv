@@ -1,0 +1,20 @@
+Name,Description,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+Power switch,SWITCH SLIDE SPDT 200MA 30V,1,1825232-1," 
+TE Connectivity ALCOSWITCH Switches",DigiKey,A107673-ND,0.46
+Buzzer,Passive buzzer side-sound 12mm,1,,,,,
+22pF,0603 Capacitor,2,,,,,
+1uF,0603 Capacitor,3,,,,,
+Charge LED,0603 LED,1,,,,,
+OLED LCD,SSD1306 OLED LCD with SPI Interface,1,,,,,
+Power LED,0603 LED,1,,,,,0.022
+32KHz Crystal,TC26H - 32.768 TH Crystal,1,,,,,
+100R resistor,0603 Resistor,1,,,,,
+2K resistor,0603 Resistor,1,,,,,
+1K,0603 Resistor,2,,,,,
+Control buttons,SWITCH TACTILE SPST-NO 0.02A 15V,7,EVQ-Q2F03W,Panasonic Electronic Components,DigiKey,P12937SCT-ND,0.14
+ATTINY1616-SNR,IC MCU 8BIT 16KB FLASH 20SOIC,1,ATTINY1616-SNR,Microchip Technology,DigiKey,ATTINY1616-SNRCT-ND,1.16
+MCP73832T-5ACI/OT,IC BATT CNTL LI-ION 1CEL SOT23-5,1,MCP73832T-5ACI/OT,Microchip Technology,DigiKey,MCP73832T-5ACI/OTCT-ND,0.79
+AZ1117IH-3.3TRG1,IC REG LINEAR 3.3V 1A SOT223,1,AZ1117IH-3.3TRG1,Diodes Incorporated,DigiKey,AZ1117IH-3.3TRG1DICT-ND,0.38
+Header strip 1x2,,1,,,,,
+Header strip 1x3,,1,,,,,
+Micro USB connector,,1,U-F-M5DD-W-2,Korean Hroparts Elec,LCSC,C145793,0.123
