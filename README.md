@@ -1,11 +1,19 @@
+
 # gameBadge
 
+**Development changes**:  
 Examples in this repo are set to use Visual Studio Code with the PlatformIO extension.  Uploading is done via UPDI using pymcuprog.  
 ```bash
 pip install pymcuprog
 ```
+**PCB Rev C changes**:  
+-UPDI pinout  
+-lm1117 regulator  
+-micro USB  
+-smaller battery  
+-12mm buzzer  
+-SMD LEDs  
 
-Source code and test examples for Midwest Gaming Classic 2021 Workshop project "gameBadge"
 
-
-[email instructions.docx](https://github.com/benheck/gameBadge/files/7478824/email.instructions.docx)
+**See it in action:**  
+[Video](https://youtu.be/aCc1WFeKW9Y)  
